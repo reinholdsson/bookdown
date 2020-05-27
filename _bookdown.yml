@@ -1,1 +1,2 @@
 output_dir: "docs"
+rmd_files: ["index.Rmd", "01-R.Rmd", "02-VBA.Rmd"]
